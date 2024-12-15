@@ -1,5 +1,5 @@
-## Hi there 👋
-# I am a Digital Game Design student at Istanbul Kultur University.
+# Hi there 👋
+## I am a Digital Game Design student at Istanbul Kultur University.
 <!--
 **erenstar/erenstar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
